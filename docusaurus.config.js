@@ -39,10 +39,7 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js')
-        },
+        docs: false,
         blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -66,10 +63,10 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          // {
-          //   type: 'docsVersionDropdown',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://yaotoshi.github.io/whitepaper',
+            label: 'Whitepaper'
+          },
           {
             href: 'https://github.com/yaotoshi',
             label: 'GitHub',
