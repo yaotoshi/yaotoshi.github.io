@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhitepaper=self.webpackChunkwhitepaper||[]).push([[195],{9294:(e,n,t)=>{t.r(n),t.d(n,{default:()=>r});var l=t(7294),i=(t(9960),t(2263)),u=t(1835);function r(){const{siteConfig:e}=(0,i.Z)();return l.createElement(u.Z,null,l.createElement("div",null,"Find the hope in the unexpected."),l.createElement("div",null,"Coming soon..."))}}}]);
