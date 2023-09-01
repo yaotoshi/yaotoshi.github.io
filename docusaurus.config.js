@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'yaotoshi', // Usually your GitHub org/user name.
-  projectName: 'whitepaper', // Usually your repo name.
+  projectName: 'yaotoshi.github.io', // Usually your repo name.
   // deploymentBranch: 'deployment',
   trailingSlash: false,
 
